@@ -16,7 +16,4 @@
 /vendor/
 /web/bundles/
 
-!src/AppBundle/Entity/Book.php
-!src/AppBundle/Repository/*
-!README.md
 /src/AppBundle/Controller/

@@ -1,6 +1,8 @@
 CachedEntityRepository
 ======================
 
+Result cache entity repository with 4 find methods implemented.
+
 app/config/config.yaml
 ```yaml
 doctrine:

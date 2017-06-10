@@ -10,7 +10,7 @@ namespace AppBundle\Repository;
  */
 class BookRepository extends CachedEntityRepository
 {
-    protected $lifetime = 3600;
-    protected $alias = '_books_';
+    protected $lifetime = null; // ex. 3600
+    protected $alias = null;    // ex. _books_
 
 }
